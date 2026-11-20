@@ -1,5 +1,5 @@
 Listado de Clase 1º DAW.
 Profesor: José Luis González Sánchez
-Moódulo: Entornos de Desarrollo
+Módulo: Entornos de Desarrollo
 
-Alumnado: 
+Alumnado: Izan Nikolov Gajero
